@@ -1,0 +1,786 @@
+2021-07-25 20:06:52.273175: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:06:52.273175: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:06:55.695742: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:06:56.259994: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:08:57.544244: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2021-07-25 20:08:57.552325: Running on_exit tasks
+2021-07-25 20:08:57.552325: Running on_exit tasks
+2021-07-25 20:10:26.040592: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:10:26.103133: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:10:28.339931: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:10:28.354262: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:14:26.353578: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:14:26.372283: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:15:24.543210: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:15:24.543210: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:16:17.996904: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:16:18.135649: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:17:10.636797: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:17:10.636797: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:18:09.887658: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:18:09.900935: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:19:01.340367: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:19:01.340367: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:20:01.355620: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:20:01.355620: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:20:55.433946: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:20:55.433946: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:21:46.934042: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:21:46.948695: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:22:48.229686: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:22:48.229686: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:23:48.026629: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:23:48.026629: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:24:45.058379: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:24:45.073696: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:25:44.089554: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:25:44.089554: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:26:56.809988: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:26:56.823941: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:27:58.277574: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:27:58.293636: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:29:02.496261: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:29:02.511891: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:29:59.686357: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:29:59.701474: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:31:02.902958: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:31:02.918462: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:32:00.637990: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:32:00.716037: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:33:01.016612: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:33:01.016612: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:33:59.060597: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:33:59.076729: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:34:55.076627: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:34:55.092186: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:35:51.327190: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:35:51.327190: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:36:52.329266: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:36:52.329266: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:37:52.077581: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:37:52.077581: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:38:51.579031: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:38:51.593480: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:39:49.843428: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:39:49.843428: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:40:49.421626: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:40:49.437308: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:41:50.062469: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:41:50.078924: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:42:46.375024: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:42:46.375024: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:44:04.484582: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:44:04.484582: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:45:10.563505: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:45:10.578446: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:46:12.347797: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:46:12.347797: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:47:12.155010: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:47:12.167645: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:48:11.136493: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:48:11.136493: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:49:09.449281: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:49:09.464712: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:50:05.417882: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:50:05.417882: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:51:03.074663: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:51:03.168001: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:51:53.512431: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:51:53.525467: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:52:50.541929: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:52:51.088065: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:53:52.619592: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:53:52.619592: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:54:43.901907: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:54:43.916686: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:55:42.058538: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:55:42.074180: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:56:32.979350: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:56:32.979350: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:57:26.183208: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:57:26.198847: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:58:18.589959: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:58:18.604473: wfastcgi.py 3.0.0 initialized
+2021-07-25 20:59:13.779263: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 20:59:13.779263: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:00:08.182864: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:00:08.182864: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:01:05.245583: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:01:05.261093: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:01:58.192682: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:01:58.208323: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:02:54.817620: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:02:54.833316: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:03:46.021619: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:03:46.021619: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:04:40.286623: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:04:40.286623: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:05:32.844372: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:05:32.859944: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:06:22.672555: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:06:22.826775: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:07:16.094557: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:07:16.110196: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:08:12.128793: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:08:12.141606: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:09:03.126085: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:09:03.126085: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:09:55.048172: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:09:55.048172: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:10:48.720656: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:10:48.720656: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:11:40.735850: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:11:40.751510: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:12:35.723381: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:12:35.723381: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:13:31.488096: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:13:31.501622: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:14:24.158146: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:14:24.158146: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:15:15.363835: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:15:15.363835: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:16:06.033235: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:16:06.048998: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:16:57.377234: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:16:57.377234: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:17:55.410362: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:17:55.598028: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:18:48.455487: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:18:48.549333: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:19:39.924481: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:19:39.924481: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:20:31.283914: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:20:31.283914: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:21:55.022127: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:21:55.037732: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:22:47.789403: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:22:47.803510: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:23:44.897376: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:23:44.897376: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:24:37.881779: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:24:37.897651: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:25:36.116413: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:25:36.116413: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:26:33.085660: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:26:33.100893: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:27:44.460398: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:27:44.460398: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:28:41.148624: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:28:41.257554: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:29:40.540428: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:29:40.554701: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:30:41.992106: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:30:42.007732: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:31:34.363479: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:31:34.378901: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:32:26.894686: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:32:26.894686: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:33:19.332916: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:33:19.347999: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:34:10.254239: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:34:10.254239: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:35:01.726055: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:35:01.726055: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:35:52.352548: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:35:52.367515: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:36:47.026121: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:36:47.135574: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:37:45.899740: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:37:45.916725: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:38:36.086271: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:38:36.086271: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:39:28.586513: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:39:28.586513: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:40:22.305273: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:40:22.320914: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:41:20.914896: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:41:20.914896: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:42:12.181202: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:42:12.196301: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:43:09.618598: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:43:09.634107: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:44:07.790182: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:44:07.805795: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:44:59.884196: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:44:59.899742: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:46:06.775048: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:46:06.790452: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:47:08.354414: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:47:08.354414: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:48:09.322205: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:48:09.337703: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:49:13.745933: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:49:13.745933: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:50:21.244489: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:50:21.244489: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:51:24.776371: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:51:24.791833: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:52:30.713818: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:52:30.713818: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:53:33.387219: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:53:33.400934: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:54:57.151026: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:54:57.167545: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:56:17.666904: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:56:17.666904: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:57:38.370095: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:57:38.385735: wfastcgi.py 3.0.0 initialized
+2021-07-25 21:58:56.386241: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 21:58:56.401639: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:00:24.621314: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:00:24.621314: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:01:57.499945: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:01:57.513748: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:03:19.732583: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:03:19.732583: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:05:00.453608: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:05:00.654786: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:06:16.064677: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:06:16.064677: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:07:38.989686: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:07:39.002884: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:08:52.864809: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:08:52.942986: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:10:04.973272: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:10:04.987624: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:11:13.176932: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:11:13.176932: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:12:40.643952: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:12:40.659996: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:14:20.722086: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:14:20.722086: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:15:45.020318: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:15:45.034655: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:17:02.519194: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:17:02.519194: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:18:23.300576: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:18:23.300576: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:19:49.472644: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:19:49.472644: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:21:25.458778: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:21:25.473586: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:22:47.430009: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:22:47.442884: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:24:02.474921: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:24:02.488873: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:25:18.457771: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:25:18.457771: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:26:38.091164: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:26:38.142024: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:27:38.825036: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:27:38.840006: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:28:53.981286: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:28:53.995564: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:30:02.311341: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:30:02.311341: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:31:07.311948: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:31:07.495861: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:32:21.215393: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:32:21.215393: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:33:36.743429: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:33:36.770783: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:34:35.135596: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:34:35.135596: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:35:28.998177: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:35:28.998177: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:36:20.685083: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:36:20.700686: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:37:23.074101: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:37:23.087944: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:38:23.543716: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:38:23.557026: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:39:25.589732: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:39:25.604220: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:40:29.995821: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:40:29.995821: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:41:56.323462: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:41:56.339099: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:43:20.120947: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:43:20.277309: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:44:20.479454: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:44:20.479454: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:46:00.168288: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:46:00.182684: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:47:33.810543: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:47:33.936242: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:49:13.357622: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:49:13.373503: wfastcgi.py 3.0.0 initialized
+2021-07-25 22:50:53.188422: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 22:50:53.203860: wfastcgi.py 3.0.0 initialized
+2021-07-25 23:47:09.348200: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 23:47:09.410745: wfastcgi.py 3.0.0 initialized
+2021-07-25 23:47:10.689666: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-25 23:47:10.689666: wfastcgi.py 3.0.0 initialized
+2021-07-26 11:46:48.168068: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 11:46:48.183163: wfastcgi.py 3.0.0 initialized
+2021-07-26 11:46:51.684303: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 11:46:51.684303: wfastcgi.py 3.0.0 initialized
+2021-07-26 14:19:44.993532: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 14:19:45.008855: wfastcgi.py 3.0.0 initialized
+2021-07-26 14:21:13.306031: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 14:21:13.323795: wfastcgi.py 3.0.0 initialized
+2021-07-26 14:22:43.353579: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 14:22:43.368587: wfastcgi.py 3.0.0 initialized
+2021-07-26 14:24:14.321899: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 14:24:14.321899: wfastcgi.py 3.0.0 initialized
+2021-07-26 14:25:50.759685: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 14:25:50.759685: wfastcgi.py 3.0.0 initialized
+2021-07-26 14:27:31.572988: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 14:27:31.587970: wfastcgi.py 3.0.0 initialized
+2021-07-26 15:08:15.498560: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 15:08:15.514064: wfastcgi.py 3.0.0 initialized
+2021-07-26 15:32:48.648420: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 15:32:48.664332: wfastcgi.py 3.0.0 initialized
+2021-07-26 15:44:08.783265: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 15:44:08.801662: wfastcgi.py 3.0.0 initialized
+2021-07-26 15:52:22.253647: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 15:52:22.269284: wfastcgi.py 3.0.0 initialized
+2021-07-26 16:26:42.986188: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 16:26:42.986188: wfastcgi.py 3.0.0 initialized
+2021-07-26 17:02:13.951650: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 17:02:14.050846: wfastcgi.py 3.0.0 initialized
+2021-07-26 17:08:58.013303: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 17:08:58.172294: wfastcgi.py 3.0.0 initialized
+2021-07-26 17:37:01.033131: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 17:37:01.033131: wfastcgi.py 3.0.0 initialized
+2021-07-26 18:03:41.222209: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 18:03:41.222209: wfastcgi.py 3.0.0 initialized
+2021-07-26 18:05:12.955553: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 18:05:12.955553: wfastcgi.py 3.0.0 initialized
+2021-07-26 18:06:28.285392: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 18:06:28.285392: wfastcgi.py 3.0.0 initialized
+2021-07-26 18:16:34.633402: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 18:16:34.633402: wfastcgi.py 3.0.0 initialized
+2021-07-26 18:16:38.308986: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-26 18:16:38.308986: wfastcgi.py 3.0.0 initialized
+2021-07-27 11:25:51.601044: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 11:25:51.630776: wfastcgi.py 3.0.0 initialized
+2021-07-27 12:24:02.958873: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 12:24:02.974548: wfastcgi.py 3.0.0 initialized
+2021-07-27 13:24:44.169823: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 13:24:44.176842: wfastcgi.py 3.0.0 initialized
+2021-07-27 13:47:21.672203: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 13:47:21.679223: wfastcgi.py 3.0.0 initialized
+2021-07-27 14:02:54.940158: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 14:02:54.955744: wfastcgi.py 3.0.0 initialized
+2021-07-27 14:28:17.848080: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 14:28:17.848080: wfastcgi.py 3.0.0 initialized
+2021-07-27 14:44:25.916267: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 14:44:25.916267: wfastcgi.py 3.0.0 initialized
+2021-07-27 21:01:13.796759: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 21:01:13.812399: wfastcgi.py 3.0.0 initialized
+2021-07-27 21:27:16.586917: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 21:27:16.586917: wfastcgi.py 3.0.0 initialized
+2021-07-27 21:42:47.377497: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-27 21:42:47.440139: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:33:50.646532: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:33:50.646532: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:45:01.212058: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2021-07-28 00:45:01.225485: Running on_exit tasks
+2021-07-28 00:46:34.727666: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+
+
+StdOut: C:\SITIOS\models\resnet10_ssd.prototxt
+C:\SITIOS\models\res10_300x300_ssd_iter_140000.caffemodel
+cpu
+
+
+StdErr: 
+2021-07-28 00:46:34.743308: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+2021-07-28 00:46:34.743308: Running on_exit tasks
+2021-07-28 00:46:34.758943: wfastcgi.py 3.0.0 closed
+2021-07-28 00:46:36.242010: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+
+
+StdOut: C:\SITIOS\models\resnet10_ssd.prototxt
+C:\SITIOS\models\res10_300x300_ssd_iter_140000.caffemodel
+cpu
+
+
+StdErr: 
+2021-07-28 00:46:36.334643: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+2021-07-28 00:46:36.334643: Running on_exit tasks
+2021-07-28 00:46:36.350744: wfastcgi.py 3.0.0 closed
+2021-07-28 00:46:55.960063: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+
+
+StdOut: C:\SITIOS\models\resnet10_ssd.prototxt
+C:\SITIOS\models\res10_300x300_ssd_iter_140000.caffemodel
+cpu
+
+
+StdErr: 
+2021-07-28 00:46:55.960063: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+2021-07-28 00:46:55.960063: Running on_exit tasks
+2021-07-28 00:46:56.022639: wfastcgi.py 3.0.0 closed
+2021-07-28 00:46:57.695803: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+
+
+StdOut: C:\SITIOS\models\resnet10_ssd.prototxt
+C:\SITIOS\models\res10_300x300_ssd_iter_140000.caffemodel
+cpu
+
+
+StdErr: 
+2021-07-28 00:46:57.695803: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\SITIOS\DESA_IA\.\app.py", line 71, in <module>
+    def gen_frames():  # generate frame by frame from camera
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 435, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\scaffold.py", line 56, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "c:\users\eric.herrera\appdata\local\programs\python\python39\lib\site-packages\flask\app.py", line 1092, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: gen_frames
+2021-07-28 00:46:57.709994: Running on_exit tasks
+2021-07-28 00:46:57.709994: wfastcgi.py 3.0.0 closed
+2021-07-28 00:48:52.728344: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:48:52.758851: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:48:53.461905: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:48:53.461905: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:50:38.592663: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2021-07-28 00:50:38.592663: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2021-07-28 00:50:38.608556: Running on_exit tasks
+2021-07-28 00:53:38.657059: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:53:38.686246: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:53:41.388566: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:53:41.388566: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:55:08.156381: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2021-07-28 00:55:08.171935: Running on_exit tasks
+2021-07-28 00:55:27.404402: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:55:27.404402: wfastcgi.py 3.0.0 initialized
+2021-07-28 00:56:00.201517: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 00:56:00.218634: wfastcgi.py 3.0.0 initialized
+2021-07-28 01:16:31.970036: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 01:16:31.989049: wfastcgi.py 3.0.0 initialized
+2021-07-28 09:48:30.143592: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 09:48:30.143592: wfastcgi.py 3.0.0 initialized
+2021-07-28 10:17:57.631975: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 10:17:57.631975: wfastcgi.py 3.0.0 initialized
+2021-07-28 10:37:34.321995: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 10:37:34.337715: wfastcgi.py 3.0.0 initialized
+2021-07-28 10:37:35.809727: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 10:37:35.822030: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:33:24.612185: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:33:24.612185: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:33:26.942851: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:33:26.957902: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:34:23.737284: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:34:23.753391: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:35:13.909974: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:35:13.909974: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:35:40.629512: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:35:40.643607: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:36:09.316029: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:36:09.331426: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:36:36.034332: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:36:36.113380: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:37:06.519456: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:37:06.534368: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:37:37.019720: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:37:37.050248: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:38:07.443446: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:38:07.443446: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:38:34.850184: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:38:34.863014: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:39:01.426648: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:39:01.426648: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:39:30.128556: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:39:30.128556: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:40:17.707702: wfastcgi.py exiting because constants.py has changed, matching .*((\.py)|(\.config))$
+2021-07-28 12:40:17.707702: Running on_exit tasks
+2021-07-28 12:41:35.769347: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:41:35.769347: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:41:36.910090: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:41:36.910090: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:42:27.600905: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:42:27.787082: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:42:56.644770: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:42:56.660456: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:43:25.520866: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:43:25.536039: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:43:26.629096: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:43:26.644676: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:43:28.007102: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:43:28.019730: wfastcgi.py 3.0.0 initialized
+2021-07-28 12:59:39.647141: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 12:59:39.647141: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:04:08.928708: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:04:08.928708: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:06:33.273307: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:06:33.304109: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:24:03.466666: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:24:03.466666: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:24:04.841110: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:24:04.856839: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:37:40.311987: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:37:40.327630: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:38:07.136477: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:38:07.136477: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:38:47.936205: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:38:47.951855: wfastcgi.py 3.0.0 initialized
+2021-07-28 13:56:32.638964: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 13:56:32.654457: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:00:18.717633: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:00:19.155106: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:00:46.061786: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:00:46.077017: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:01:13.470317: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:01:13.470317: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:01:39.952640: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:01:39.967637: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:02:09.561798: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:02:09.577135: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:02:37.375632: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:02:37.375632: wfastcgi.py 3.0.0 initialized
+2021-07-28 14:03:31.280685: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 14:03:31.296027: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:03:46.772867: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:03:46.772867: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:09:00.883852: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:09:00.898683: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:10:09.899290: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:10:09.914643: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:10:45.476920: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:10:45.742538: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:11:14.994139: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:11:15.008196: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:11:45.259462: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:11:45.275102: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:11:49.133675: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:11:49.149065: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:13:01.680429: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:13:01.680429: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:13:31.446080: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:13:31.446080: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:14:01.758614: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:14:01.758614: wfastcgi.py 3.0.0 initialized
+2021-07-28 15:15:23.118715: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 15:15:23.134416: wfastcgi.py 3.0.0 initialized
+2021-07-28 16:35:04.055239: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-07-28 16:35:04.055239: wfastcgi.py 3.0.0 initialized
+2021-08-24 13:02:50.865083: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-08-24 13:02:50.880609: wfastcgi.py 3.0.0 initialized
+2021-08-24 13:04:50.205581: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-08-24 13:04:50.222059: wfastcgi.py 3.0.0 initialized
+2021-08-24 13:06:03.943500: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-08-24 13:06:03.959137: wfastcgi.py 3.0.0 initialized
+2021-08-24 13:06:04.674597: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-08-24 13:06:04.690234: wfastcgi.py 3.0.0 initialized
+2021-08-24 13:07:39.987968: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-08-24 13:07:40.002864: wfastcgi.py 3.0.0 initialized
+2021-08-27 16:37:49.918922: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-08-27 16:37:49.918922: wfastcgi.py 3.0.0 initialized
+2021-09-14 15:53:47.996021: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-14 15:53:47.996021: wfastcgi.py 3.0.0 initialized
+2021-09-14 21:57:31.507869: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-14 21:57:31.522911: wfastcgi.py 3.0.0 initialized
+2021-09-14 21:57:31.757508: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-14 21:57:31.788251: wfastcgi.py 3.0.0 initialized
+2021-09-14 22:02:30.876959: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-14 22:02:30.876959: wfastcgi.py 3.0.0 initialized
+2021-09-14 22:13:59.555370: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-14 22:13:59.586428: wfastcgi.py 3.0.0 initialized
+2021-09-14 22:54:07.260032: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-14 22:54:07.276079: wfastcgi.py 3.0.0 initialized
+2021-09-15 00:37:06.381876: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 00:37:06.381876: wfastcgi.py 3.0.0 initialized
+2021-09-15 08:57:37.412933: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 08:57:37.428774: wfastcgi.py 3.0.0 initialized
+2021-09-15 08:57:40.147200: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 08:57:40.147200: wfastcgi.py 3.0.0 initialized
+2021-09-15 08:57:44.167115: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 08:57:44.183157: wfastcgi.py 3.0.0 initialized
+2021-09-15 09:04:31.710362: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 09:04:31.710362: wfastcgi.py 3.0.0 initialized
+2021-09-15 09:11:27.113316: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 09:11:27.113316: wfastcgi.py 3.0.0 initialized
+2021-09-15 12:59:00.724373: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 12:59:00.724373: wfastcgi.py 3.0.0 initialized
+2021-09-15 12:59:04.127482: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 12:59:04.132201: wfastcgi.py 3.0.0 initialized
+2021-09-15 13:08:03.985208: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 13:08:03.985208: wfastcgi.py 3.0.0 initialized
+2021-09-15 13:18:09.329516: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 13:18:09.345560: wfastcgi.py 3.0.0 initialized
+2021-09-15 13:40:03.580264: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 13:40:03.595300: wfastcgi.py 3.0.0 initialized
+2021-09-15 14:51:16.557548: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 14:51:16.573587: wfastcgi.py 3.0.0 initialized
+2021-09-15 14:59:12.746542: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 14:59:12.761583: wfastcgi.py 3.0.0 initialized
+2021-09-15 15:35:28.787990: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 15:35:28.796010: wfastcgi.py 3.0.0 initialized
+2021-09-15 15:35:30.834828: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 15:35:30.841829: wfastcgi.py 3.0.0 initialized
+2021-09-15 15:35:35.150909: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 15:35:35.150909: wfastcgi.py 3.0.0 initialized
+2021-09-15 15:44:53.552258: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 15:44:53.561281: wfastcgi.py 3.0.0 initialized
+2021-09-15 16:48:15.829185: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 16:48:15.843149: wfastcgi.py 3.0.0 initialized
+2021-09-15 16:51:38.242265: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 16:51:38.249290: wfastcgi.py 3.0.0 initialized
+2021-09-15 16:54:42.747488: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-15 16:54:42.763533: wfastcgi.py 3.0.0 initialized
+2021-09-16 10:59:32.215606: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-16 10:59:32.215606: wfastcgi.py 3.0.0 initialized
+2021-09-16 10:59:33.403088: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-16 10:59:33.418719: wfastcgi.py 3.0.0 initialized
+2021-09-16 11:22:47.627265: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-16 11:22:47.642903: wfastcgi.py 3.0.0 initialized
+2021-09-16 11:34:24.504396: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-16 11:34:24.518865: wfastcgi.py 3.0.0 initialized
+2021-09-16 12:24:22.180281: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-16 12:24:22.180281: wfastcgi.py 3.0.0 initialized
+2021-09-16 12:43:57.776255: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-16 12:43:57.776255: wfastcgi.py 3.0.0 initialized
+2021-09-17 11:12:34.457208: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-17 11:12:34.457208: wfastcgi.py 3.0.0 initialized
+2021-09-17 11:22:52.801657: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-17 11:22:52.801657: wfastcgi.py 3.0.0 initialized
+2021-09-17 11:29:07.352851: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-17 11:29:07.352851: wfastcgi.py 3.0.0 initialized
+2021-09-17 14:02:22.994909: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-17 14:02:22.994909: wfastcgi.py 3.0.0 initialized
+2021-09-17 14:10:53.933784: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-17 14:10:53.950393: wfastcgi.py 3.0.0 initialized
+2021-09-19 11:36:25.330021: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-19 11:36:25.344871: wfastcgi.py 3.0.0 initialized
+2021-09-19 12:06:26.114737: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-19 12:06:26.130106: wfastcgi.py 3.0.0 initialized
+2021-09-19 12:16:01.053437: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-19 12:16:01.068850: wfastcgi.py 3.0.0 initialized
+2021-09-19 12:32:14.181341: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-19 12:32:14.196168: wfastcgi.py 3.0.0 initialized
+2021-09-19 12:33:07.071542: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-19 12:33:07.071542: wfastcgi.py 3.0.0 initialized
+2021-09-19 23:52:23.474535: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-19 23:52:23.490682: wfastcgi.py 3.0.0 initialized
+2021-09-20 00:21:09.887054: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-20 00:21:09.916774: wfastcgi.py 3.0.0 initialized
+2021-09-20 00:34:10.699761: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-20 00:34:10.699761: wfastcgi.py 3.0.0 initialized
+2021-09-20 09:24:30.991258: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-20 09:24:30.991258: wfastcgi.py 3.0.0 initialized
+2021-09-20 09:32:45.789076: wfastcgi.py will restart when files in C:\SITIOS\DESA_IA\ are changed: .*((\.py)|(\.config))$
+2021-09-20 09:32:45.789076: wfastcgi.py 3.0.0 initialized
